@@ -1,0 +1,12 @@
+#box{
+   width: 1000px; 
+   height: 600px;
+   border: 2px solid black;
+   margin: auto;
+   /* background-color: aqua; */
+   /* background: linear-gradient(to bottom right, green, red, yellow); */
+
+background: radial-gradient(circle, green 20%, red 30%, yellow 70%);
+
+
+}

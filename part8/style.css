@@ -1,0 +1,25 @@
+
+
+
+#color-box{
+   background-image: url('images.jpg') ;
+  background-repeat: no-repeat;
+  background-size: cover;
+   width: 600px;
+   height: 450px;
+
+
+
+}
+
+#color-box h1{
+background-color: blueviolet;
+color: white;
+padding: 50px 0;
+text-align: center;
+opacity: 0;
+
+}
+#color-box h1:hover{
+opacity: 0.2;
+}

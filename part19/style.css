@@ -1,0 +1,24 @@
+
+.parent{
+   width: 200px; 
+   height: 150px;
+   border: 3px solid blue;
+   margin: 50px auto;
+}
+
+
+.child{
+    width: 200px;
+    height: 150px;
+    background-color: blueviolet;
+
+
+
+    transform: perspective(800px) rotatey(45deg);
+}
+
+
+
+
+
+

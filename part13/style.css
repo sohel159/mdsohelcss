@@ -1,0 +1,12 @@
+img{
+    border: 2px solid black;
+    width: 500px;
+    height: 280px;
+    object-fit: cover;
+    object-position: top center;
+
+
+}
+
+
+

@@ -1,0 +1,27 @@
+#parent{
+   color: crimson;
+   background-color: bisque;
+   border: 2px solid black; 
+}
+#link-1{
+    color: darkblue;
+    border: inherit;
+
+}
+
+
+
+#link-2{
+    color: chartreuse;
+    border: inherit;
+}
+
+#link-3{
+color: initial;
+border: inherit;
+}
+#link-4{
+    color: darkolivegreen;
+    border: inherit;
+}
+

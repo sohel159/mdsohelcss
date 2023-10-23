@@ -1,0 +1,19 @@
+div{
+  width: 200px;  
+  height: 100px;
+  background-color: chartreuse;
+  margin: 50px auto;
+  transition: 3s;
+ 
+
+  
+}
+
+
+div:hover{
+    /* transform: translate(50px, 50px); */
+    /* transform: scalex(2) */
+    transform: scale(0.5) rotate(360deg);
+     /* transform: skewx(-20deg); */
+    /* transform: scaley(2) */
+}

@@ -1,0 +1,22 @@
+
+
+
+
+div{
+   
+   column-count: 4; 
+   text-align: justify;
+   column-gap: 30px;
+   column-rule-style: dotted;
+   column-rule-color: black;
+   column-width: 200px;
+
+
+}
+
+
+
+
+h1{
+
+}

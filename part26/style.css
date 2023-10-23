@@ -1,0 +1,25 @@
+
+    p{
+        background-color: aqua;
+        font-size: 10px; 
+      
+      }
+
+
+@media prient{
+    P{
+        background-color: red;
+        font-size: 40px;
+    }
+    img{
+        display: none;
+     }
+     div{
+        width: 200px;
+    } 
+}
+
+
+
+
+

@@ -1,0 +1,15 @@
+#parent{
+    background-color: bisque;
+    font-size: 40px;
+ border: 2px solid black; 
+ width: 100vw; 
+ height: 50vh; 
+ text-align: center;
+}
+#child{
+    background-color: blue;
+    border: 2px solid black;
+    width: 50%;
+    font: size 2em;
+    text-align: center;
+}
